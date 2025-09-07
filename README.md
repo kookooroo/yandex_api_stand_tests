@@ -9,13 +9,6 @@ This repository contains automated Tests for validating the `firstName` paramete
 - Clear separation of reusable assert functions.  
 - Easy to extend with new test cases.  
 
-## Project Structure
-
-- data.py                    Test data (default user body)
-- sender_state_request.py    API request functions
-- test_create_user.py        Test cases (this file)
-- requirements.txt           Dependencies
-
 ## Running Tests
 
 Run all tests with:
